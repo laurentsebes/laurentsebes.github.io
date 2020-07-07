@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:georss="http://www.georss.org/georss" xmlns:photo="http://www.pheed.com/pheed/">
+ <title>Laurent Sebes : sculptures, peintures et objets</title>
+ <subtitle><![CDATA[Retrouvez toutes les oeuvres de Laurent Sébès : sculptures, peinture et objets.]]></subtitle>
+ <link rel="alternate" type="text/html" href="https://www.laurent-sebes.com" />
+ <link rel="self" type="text/xml" href="https://www.laurent-sebes.com/xml/atom.xml" />
+ <id>https://www.laurent-sebes.com/</id>
+ <updated>2020-07-02T10:26:40+02:00</updated>
+  <geo:lat>48.8360616</geo:lat>
+  <geo:long>2.3464033</geo:long>
+  <icon>https://www.laurent-sebes.com/favicon.ico</icon>
+  <logo>https://www.laurent-sebes.com/var/style/logo.jpg?v=1354005477</logo>
+  <entry>
+   <title>Les endormis</title>
+   <updated>2020-06-23T14:57:00+02:00</updated>
+   <id>https://www.laurent-sebes.com/Les-endormis_a176.html</id>
+   <category term="2000 - Aujourd'hui" />
+   <photo:imgsrc>https://www.laurent-sebes.com/photo/art/imagette/47486585-37554262.jpg</photo:imgsrc>
+   <published>2020-06-23T14:52:00+02:00</published>
+   <author><name>Laurent Sébès</name></author>
+   <content type="html">
+    <![CDATA[
+Cette sculpture en céramique et résine m'a occupé pendant les deux mois du confinement...     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47486585-37554262.jpg?v=1592917902" alt="Les endormis" title="Les endormis" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47486585-37554272.jpg?v=1592917960" alt="Les endormis" title="Les endormis" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+    ]]>
+   </content>
+   <link rel="alternate" href="https://www.laurent-sebes.com/Les-endormis_a176.html" />
+  </entry>
+  <entry>
+   <title>L'été</title>
+   <updated>2020-06-23T14:49:00+02:00</updated>
+   <id>https://www.laurent-sebes.com/L-ete_a175.html</id>
+   <category term="2000 - Aujourd'hui" />
+   <photo:imgsrc>https://www.laurent-sebes.com/photo/art/imagette/47486422-37554125.jpg</photo:imgsrc>
+   <published>2020-06-23T14:43:00+02:00</published>
+   <author><name>Laurent Sébès</name></author>
+   <content type="html">
+    <![CDATA[
+Comme pour le printemps, l'été associe une allégorie sculptée avec une vue de la place de la Nation     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47486422-37554125.jpg?v=1592917455" alt="L'été" title="L'été" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+    ]]>
+   </content>
+   <link rel="alternate" href="https://www.laurent-sebes.com/L-ete_a175.html" />
+  </entry>
+  <entry>
+   <title>Le printemps</title>
+   <updated>2020-06-23T14:42:00+02:00</updated>
+   <id>https://www.laurent-sebes.com/Le-printemps_a174.html</id>
+   <category term="2000 - Aujourd'hui" />
+   <photo:imgsrc>https://www.laurent-sebes.com/photo/art/imagette/47485861-37553887.jpg</photo:imgsrc>
+   <published>2020-06-23T14:22:00+02:00</published>
+   <author><name>Laurent Sébès</name></author>
+   <content type="html">
+    <![CDATA[
+Ce travail sur les quatre saisons allie dessin et sculpture, allégorie sculptée (les âges de la vie) et dessins sur un motif récurants, celui de la place de la nation à Paris. Les deux panneaux latéraux sont articulés.     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47485861-37553887.jpg?v=1592916850" alt="Le printemps" title="Le printemps" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+    ]]>
+   </content>
+   <link rel="alternate" href="https://www.laurent-sebes.com/Le-printemps_a174.html" />
+  </entry>
+  <entry>
+   <title>Service à thé</title>
+   <updated>2020-06-23T14:12:00+02:00</updated>
+   <id>https://www.laurent-sebes.com/Service-a-the_a173.html</id>
+   <category term="Sébès Objets" />
+   <photo:imgsrc>https://www.laurent-sebes.com/photo/art/imagette/47485428-37553463.jpg</photo:imgsrc>
+   <published>2020-06-23T14:07:00+02:00</published>
+   <author><name>Laurent Sébès</name></author>
+   <content type="html">
+    <![CDATA[
+Ce service à thé est aujourd'hui fabriqué à Limoges par les "porcelaines de la fabrique"     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47485428-37553463.jpg?v=1592915252" alt="Service à thé" title="Service à thé" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+    ]]>
+   </content>
+   <link rel="alternate" href="https://www.laurent-sebes.com/Service-a-the_a173.html" />
+  </entry>
+  <entry>
+   <title>table basse et console</title>
+   <updated>2020-06-23T13:52:00+02:00</updated>
+   <id>https://www.laurent-sebes.com/table-basse-et-console_a172.html</id>
+   <category term="Sébès Objets" />
+   <photo:imgsrc>https://www.laurent-sebes.com/photo/art/imagette/47484750-37553189.jpg</photo:imgsrc>
+   <published>2020-06-23T13:40:00+02:00</published>
+   <author><name>Laurent Sébès</name></author>
+   <content type="html">
+    <![CDATA[
+Vue de l'exposition "Révélations" au grand palais en mai 2019, stand galerie Bernard Jordan     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47484750-37553189.jpg?v=1592914075" alt="table basse et console" title="table basse et console" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+     <div style="position:relative; text-align : center; padding-bottom: 1em;">
+      <img src="https://www.laurent-sebes.com/photo/art/default/47484750-37553328.jpg?v=1592914538" alt="table basse et console" title="table basse et console" />
+     </div>
+     <div>
+      
+     </div>
+     <br style="clear:both;"/>
+    ]]>
+   </content>
+   <link rel="alternate" href="https://www.laurent-sebes.com/table-basse-et-console_a172.html" />
+  </entry>
+</feed>

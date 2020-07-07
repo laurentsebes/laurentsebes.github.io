@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+			/* I wanted to center my loader */
+			#cycle-loader {
+	height:32px;
+	left:50%;
+	margin:-8px 0 0 -8px;
+	position:absolute;
+	top:50%;
+	width:32px;
+	z-index:999;
+}
+/*I want to avoid jumpiness as the JS loads, so I initially hide my cycle*/
+			#maximage {
+	/*display:none;/* Only use this if you fade it in again after the images load */
+	position:fixed !important;
+	width:100%;
+	height:100%;
+	margin-top: -33px;
+}
+#maximage .slide {
+	width:100%!important;
+	height:100%!important;
+}
+#maximage .slide img {
+	width:100%!important;
+	height:auto!important;
+}
+/*Set my gradient above all images*/
+	#gradient {
+	left:0;
+	height:100%;
+	position:absolute;
+	top:0;
+	width:100%;
+	z-index:999;
+}
+/*navigation*/
+.nav{
+position: fixed;
+top:491px;
+width: 32%;
+padding-left:5%;
+z-index: 1000;
+}
+#arrow_left, #arrow_right {
+	height:27px;
+	width:16px;
+	z-index:1000;
+}
+#arrow_right {
+	left: 100%;
+position: relative;
+}
+#arrow_left:hover, #arrow_right:hover {
+}
+#arrow_left:active, #arrow_right:active {
+}
+a {
+	color:#FFF;
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+.in-slide-content {
+	float:right;
+	font-size:13px;
+	font-weight:normal;
+	left:0;
+	padding:15px 50px 15px 0px;
+	padding-left: 8%;
+	position:absolute;
+	top:350px;
+	width:30%;
+	z-index:9999; /* Show above .gradient */
+	font-family:Arial, Helvetica, sans-serif;
+	background:#e2352d;
+	color:#FFF;
+	line-height:150%;
+}
+.in-slide-content h2{
+padding:10px 0px;
+}
+.light-text {
+	color:#ddd;
+	text-shadow: 0 1px 0 #666;
+}
+.smaller-text {
+	font-size:30px;
+}

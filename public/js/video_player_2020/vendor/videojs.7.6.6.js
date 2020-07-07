@@ -2247,7 +2247,7 @@
    * A Custom DOM event.
    *
    * @typedef {Object} EventTarget~Event
-   * @see [Properties]{@link https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent}
+   * @see [Properties]{@link https://developer.mozilla.org/en-USdocs/Web/API/CustomEvent}
    */
 
   /**
@@ -3121,7 +3121,7 @@
    * Merge two objects recursively.
    *
    * Performs a deep merge like
-   * {@link https://lodash.com/docs/4.17.10#merge|lodash.merge}, but only merges
+   * {@link https://lodash.comdocs/4.17.10#merge|lodash.merge}, but only merges
    * plain objects (not arrays, elements, or anything else).
    *
    * Non-plain object values will be copied directly from the right-most
@@ -3892,7 +3892,7 @@
      * @return {Element|null}
      *         the dom element that was found, or null
      *
-     * @see [Information on CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors)
+     * @see [Information on CSS Selectors](https://developer.mozilla.org/en-USdocs/Web/Guide/CSS/Getting_Started/Selectors)
      */
     ;
 
@@ -3915,7 +3915,7 @@
      * @return {NodeList}
      *         a list of dom elements that were found
      *
-     * @see [Information on CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started/Selectors)
+     * @see [Information on CSS Selectors](https://developer.mozilla.org/en-USdocs/Web/Guide/CSS/Getting_Started/Selectors)
      */
     ;
 
@@ -4028,7 +4028,7 @@
      *         - Most browsers will return null if the attibute does not exist or has
      *           no value.
      *
-     * @see [DOM API]{@link https://developer.mozilla.org/en-US/docs/Web/API/Element/getAttribute}
+     * @see [DOM API]{@link https://developer.mozilla.org/en-USdocs/Web/API/Element/getAttribute}
      */
     ;
 
@@ -4044,7 +4044,7 @@
      * @param {string} value
      *        Value to set the attribute to.
      *
-     * @see [DOM API]{@link https://developer.mozilla.org/en-US/docs/Web/API/Element/setAttribute}
+     * @see [DOM API]{@link https://developer.mozilla.org/en-USdocs/Web/API/Element/setAttribute}
      */
     ;
 
@@ -4057,7 +4057,7 @@
      * @param {string} attribute
      *        Name of the attribute to remove.
      *
-     * @see [DOM API]{@link https://developer.mozilla.org/en-US/docs/Web/API/Element/removeAttribute}
+     * @see [DOM API]{@link https://developer.mozilla.org/en-USdocs/Web/API/Element/removeAttribute}
      */
     ;
 
@@ -4510,7 +4510,7 @@
      *         was set.
      *
      * @listens Component#dispose
-     * @see [Similar to]{@link https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setTimeout}
+     * @see [Similar to]{@link https://developer.mozilla.org/en-USdocs/Web/API/WindowTimers/setTimeout}
      */
     ;
 
@@ -4545,7 +4545,7 @@
      * @return {number}
      *         Returns the timeout id that was cleared.
      *
-     * @see [Similar to]{@link https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/clearTimeout}
+     * @see [Similar to]{@link https://developer.mozilla.org/en-USdocs/Web/API/WindowTimers/clearTimeout}
      */
     ;
 
@@ -4575,7 +4575,7 @@
      *         {@link Component#clearInterval} to clear the interval.
      *
      * @listens Component#dispose
-     * @see [Similar to]{@link https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/setInterval}
+     * @see [Similar to]{@link https://developer.mozilla.org/en-USdocs/Web/API/WindowTimers/setInterval}
      */
     ;
 
@@ -4599,7 +4599,7 @@
      * @return {number}
      *         Returns the interval id that was cleared.
      *
-     * @see [Similar to]{@link https://developer.mozilla.org/en-US/docs/Web/API/WindowTimers/clearInterval}
+     * @see [Similar to]{@link https://developer.mozilla.org/en-USdocs/Web/API/WindowTimers/clearInterval}
      */
     ;
 
@@ -4634,7 +4634,7 @@
      *         the animation frame callback.
      *
      * @listens Component#dispose
-     * @see [Similar to]{@link https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame}
+     * @see [Similar to]{@link https://developer.mozilla.org/en-USdocs/Web/API/window/requestAnimationFrame}
      */
     ;
 
@@ -4675,7 +4675,7 @@
      * @return {number}
      *         Returns the rAF ID that was cleared.
      *
-     * @see [Similar to]{@link https://developer.mozilla.org/en-US/docs/Web/API/window/cancelAnimationFrame}
+     * @see [Similar to]{@link https://developer.mozilla.org/en-USdocs/Web/API/window/cancelAnimationFrame}
      */
     ;
 
@@ -5150,7 +5150,7 @@
    * @property {module:time-ranges~TimeRangeIndex} end
    *           Returns the time offset at which a specified time range ends.
    *
-   * @see https://developer.mozilla.org/en-US/docs/Web/API/TimeRanges
+   * @see https://developer.mozilla.org/en-USdocs/Web/API/TimeRanges
    */
 
   /**
@@ -5233,7 +5233,7 @@
   }
   /**
    * Create a `TimeRange` object which mimics an
-   * {@link https://developer.mozilla.org/en-US/docs/Web/API/TimeRanges|HTML5 TimeRanges instance}.
+   * {@link https://developer.mozilla.org/en-USdocs/Web/API/TimeRanges|HTML5 TimeRanges instance}.
    *
    * @param {number|Array[]} start
    *        The start of a single range (a number) or an array of ranges (an
@@ -12209,7 +12209,7 @@
      * @return {string}
      *         'probably', 'maybe', or empty string
      *
-     * @see [Spec]{@link https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType}
+     * @see [Spec]{@link https://developer.mozilla.org/en-USdocs/Web/API/HTMLMediaElement/canPlayType}
      *
      * @abstract
      */
@@ -29449,7 +29449,7 @@
    * Object, optional
    *
    * Options object for providing settings.
-   * See: [Options Guide](https://docs.videojs.com/tutorial-options.html).
+   * See: [Options Guide](https:/docs.videojs.com/tutorial-options.html).
    *
    * ##### ready
    * {@link Component~ReadyCallback}, optional
@@ -29497,7 +29497,7 @@
    *
    * @param  {Object} [options]
    *         Options object for providing settings.
-   *         See: [Options Guide](https://docs.videojs.com/tutorial-options.html).
+   *         See: [Options Guide](https:/docs.videojs.com/tutorial-options.html).
    *
    * @param  {Component~ReadyCallback} [ready]
    *         A function to be called when the {@link Player} and {@link Tech} are
@@ -36095,8 +36095,8 @@
   /**
     * Parses out inband captions from an MP4 container and returns
     * caption objects that can be used by WebVTT and the TextTrack API.
-    * @see https://developer.mozilla.org/en-US/docs/Web/API/VTTCue
-    * @see https://developer.mozilla.org/en-US/docs/Web/API/TextTrack
+    * @see https://developer.mozilla.org/en-USdocs/Web/API/VTTCue
+    * @see https://developer.mozilla.org/en-USdocs/Web/API/TextTrack
     * Assumes that `probe.getVideoTrackIds` and `probe.timescale` have been called first
     *
     * @param {Uint8Array} segment - The fmp4 segment containing embedded captions
@@ -39695,7 +39695,7 @@
    * point" (a point where we have a mapping from program time to player time, with player
    * time being the post transmux start of the segment).
    *
-   * For more details, see [this doc](../../docs/program-time-from-player-time.md).
+   * For more details, see [this doc](../..docs/program-time-from-player-time.md).
    *
    * @param {Number} playerTime the player time
    * @param {Object} segment the segment which contains the player time
@@ -45997,7 +45997,7 @@
           // transfer ownership of the underlying ArrayBuffer
           // instead of doing a copy to save memory
           // ArrayBuffers are transferable but generic TypedArrays are not
-          // @link https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers#Passing_data_by_transferring_ownership_(transferable_objects)
+          // @link https://developer.mozilla.org/en-USdocs/Web/API/Web_Workers_API/Using_web_workers#Passing_data_by_transferring_ownership_(transferable_objects)
           var initArray = segment.initSegment;
           segment.initSegment = {
             data: initArray.buffer,
@@ -47021,7 +47021,7 @@
        * can transmux them before we append them to our internal
        * native source buffers in the correct format.
        *
-       * @link https://developer.mozilla.org/en-US/docs/Web/API/SourceBuffer/appendBuffer
+       * @link https://developer.mozilla.org/en-USdocs/Web/API/SourceBuffer/appendBuffer
        * @param {Uint8Array} segment the segment to append to the buffer
        */
 
@@ -47080,7 +47080,7 @@
        * Emulate the native mediasource function and remove parts
        * of the buffer from any of our internal buffers that exist
        *
-       * @link https://developer.mozilla.org/en-US/docs/Web/API/SourceBuffer/remove
+       * @link https://developer.mozilla.org/en-USdocs/Web/API/SourceBuffer/remove
        * @param {Double} start position to start the remove at
        * @param {Double} end position to end the remove at
        */
@@ -47277,7 +47277,7 @@
        * Emulate the native mediasource function. abort any soureBuffer
        * actions and throw out any un-appended data.
        *
-       * @link https://developer.mozilla.org/en-US/docs/Web/API/SourceBuffer/abort
+       * @link https://developer.mozilla.org/en-USdocs/Web/API/SourceBuffer/abort
        */
 
     }, {
@@ -47311,7 +47311,7 @@
    * Our MediaSource implementation in HTML, mimics native
    * MediaSource where/if possible.
    *
-   * @link https://developer.mozilla.org/en-US/docs/Web/API/MediaSource
+   * @link https://developer.mozilla.org/en-USdocs/Web/API/MediaSource
    * @class HtmlMediaSource
    * @extends videojs.EventTarget
    */
@@ -47594,7 +47594,7 @@
       /**
        * Add a source buffer to the media source.
        *
-       * @link https://developer.mozilla.org/en-US/docs/Web/API/MediaSource/addSourceBuffer
+       * @link https://developer.mozilla.org/en-USdocs/Web/API/MediaSource/addSourceBuffer
        * @param {String} type the content-type of the content
        * @return {Object} the created source buffer
        */
@@ -47695,7 +47695,7 @@
    * native and non-native functionality. returns an instance of
    * HtmlMediaSource.
    *
-   * @link https://developer.mozilla.org/en-US/docs/Web/API/MediaSource/MediaSource
+   * @link https://developer.mozilla.org/en-USdocs/Web/API/MediaSource/MediaSource
    */
 
 
@@ -47718,7 +47718,7 @@
    * A wrapper around the native URL for our MSE object
    * implementation, this object is exposed under videojs.URL
    *
-   * @link https://developer.mozilla.org/en-US/docs/Web/API/URL/URL
+   * @link https://developer.mozilla.org/en-USdocs/Web/API/URL/URL
    */
 
   var URL$1 = {
@@ -47727,7 +47727,7 @@
      * This function maps a native or emulated mediaSource to a blob
      * url so that it can be loaded into video.js
      *
-     * @link https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL
+     * @link https://developer.mozilla.org/en-USdocs/Web/API/URL/createObjectURL
      * @param {MediaSource} object the object to create a blob url to
      */
     createObjectURL: function createObjectURL(object) {
@@ -55747,7 +55747,7 @@
     } catch (e) {
       // Throws if storage is full (e.g., always on iOS 5+ Safari private mode, where
       // storage is set to 0).
-      // https://developer.mozilla.org/en-US/docs/Web/API/Storage/setItem#Exceptions
+      // https://developer.mozilla.org/en-USdocs/Web/API/Storage/setItem#Exceptions
       // No need to perform any operation.
       return false;
     }
